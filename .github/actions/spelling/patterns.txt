@@ -1,5 +1,8 @@
 # See https://github.com/check-spelling/check-spelling/wiki/Configuration-Examples:-patterns
 
+# broken pattern
+[a-z,0-9]{12}
+
 # Questionably acceptable forms of `in to`
 # Personally, I prefer `log into`, but people object
 # https://www.tprteaching.com/log-into-log-in-to-login/
